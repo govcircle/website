@@ -12,3 +12,8 @@ title = 'govcircle'
     [[module.imports]]
         path = "github.com/gohugoio/hugo-mod-bootstrap-scss/v5"
         disable = false
+
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'        
