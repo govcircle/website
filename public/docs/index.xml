@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Docs on govcircle</title>
-    <link>http://localhost:6001/docs/</link>
+    <link>http://localhost:7270/docs/</link>
     <description>Recent content in Docs on govcircle</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 30 Sep 2022 05:33:22 +0100</lastBuildDate>
-    <atom:link href="http://localhost:6001/docs/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:7270/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Overview</title>
-      <link>http://localhost:6001/docs/overview/</link>
+      <link>http://localhost:7270/docs/overview/</link>
       <pubDate>Fri, 30 Sep 2022 05:33:22 +0100</pubDate>
-      <guid>http://localhost:6001/docs/overview/</guid>
+      <guid>http://localhost:7270/docs/overview/</guid>
       <description>&lt;p&gt;edsdwdsss&lt;/p&gt;</description>
     </item>
   </channel>

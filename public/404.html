@@ -41,7 +41,7 @@
 
 
 
-<html lang="en-us" dir="ltr"><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=6001&amp;path=livereload" data-no-instant defer></script>
+<html lang="en-us" dir="ltr"><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
     <meta charset="utf-8" />
     <title>govcircle</title>
     <meta name="robots" content="noindex">
@@ -53,12 +53,12 @@
     <meta name="website" content="https://lotusdocs.dev" />
     <meta name="Version" content="v0.1.0" />
     
-    <link rel="icon" href="http://localhost:6001/favicon.ico" sizes="any">
-<link rel="icon" type="image/svg+xml" href="http://localhost:6001/favicon.svg">
-<link rel="apple-touch-icon" sizes="180x180" href="http://localhost:6001/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:6001/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:6001/favicon-16x16.png">
-<link rel="manifest" crossorigin="use-credentials" href="http://localhost:6001/site.webmanifest">
+    <link rel="icon" href="http://localhost:1313/favicon.ico" sizes="any">
+<link rel="icon" type="image/svg+xml" href="http://localhost:1313/favicon.svg">
+<link rel="apple-touch-icon" sizes="180x180" href="http://localhost:1313/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/favicon-16x16.png">
+<link rel="manifest" crossorigin="use-credentials" href="http://localhost:1313/site.webmanifest">
 
     
     
@@ -90,7 +90,7 @@
     
     
         
-            <script type="text/javascript" src="http://localhost:6001/js/image-compare.js" ></script>
+            <script type="text/javascript" src="http://localhost:1313/js/image-compare.js" ></script>
     </head><body>
         <div>
 <header id="topnav">
@@ -189,14 +189,14 @@
 </footer>
 
         
-            <script type="text/javascript" src="http://localhost:6001/js/bundle.js" ></script>
+            <script type="text/javascript" src="http://localhost:1313/js/bundle.js" ></script>
 
         
         
         <script>
             const viewers = document.querySelectorAll(".image-compare");
             let configs = [
-                {"addCircle":true,"addCircleBlur":true,"hoverStart":true,"labelOptions":{"after":"GovCircle","before":"gov.tools","onHover":true},"showLabels":true,"startingPoint":20},{"addCircle":true,"addCircleBlur":false,"controlColor":"#3C4257","hoverStart":true,"labelOptions":{"after":"Life Saver","before":"Inter","onHover":false},"showLabels":true,"startingPoint":25},{"addCircle":true,"addCircleBlur":true,"labelOptions":{"after":"Cardinal","before":"Blue","onHover":false},"showLabels":true,"startingPoint":25}
+                {"addCircle":true,"addCircleBlur":false,"labelOptions":{"after":"Light","before":"Dark","onHover":false},"showLabels":true,"startingPoint":50},{"addCircle":true,"addCircleBlur":false,"controlColor":"#3C4257","labelOptions":{"after":"Life Saver","before":"Inter","onHover":false},"showLabels":true,"startingPoint":25},{"addCircle":true,"addCircleBlur":true,"labelOptions":{"after":"Cardinal","before":"Blue","onHover":false},"showLabels":true,"startingPoint":25}
             ];
             viewers.forEach((element, i) => {
                 let view = new ImageCompare(element, configs[i]).mount();
