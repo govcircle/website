@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>modules on govcircle</title>
-    <link>http://localhost:7270/docs/modules/</link>
+    <link>http://localhost:1313/docs/modules/</link>
     <description>Recent content in modules on govcircle</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 22 May 2023 00:34:57 +0100</lastBuildDate>
-    <atom:link href="http://localhost:7270/docs/modules/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/docs/modules/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>constitution</title>
-      <link>http://localhost:7270/docs/modules/constitution/</link>
+      <link>http://localhost:1313/docs/modules/constitution/</link>
       <pubDate>Sat, 30 Sep 2023 05:33:22 +0100</pubDate>
-      <guid>http://localhost:7270/docs/modules/constitution/</guid>
+      <guid>http://localhost:1313/docs/modules/constitution/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview &lt;a href=&#34;#overview&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The Constitution Module in GovCircle enhances the governance structure introduced in CIP-1694 by offering a dynamic and collaborative environment for managing, modifying, and discussing the Cardano Constitution. This module builds upon the foundational concept of the Constitution as defined in CIP-1694 while introducing powerful tools and workflows to make governance more accessible, transparent, and participatory.&lt;/p&gt;&#xA;&lt;h2 id=&#34;architecture&#34;&gt;Architecture &lt;a href=&#34;#architecture&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;In the current architecture outlined by CIP-1694, the Constitution is stored on the Cardano blockchain as a hash of a text file. This method ensures immutability and transparency by preserving the Constitution as a record on-chain. However, this static structure lacks the flexibility required for dynamic governance processes, including collaboration, updates, and categorization of the Constitution&amp;rsquo;s sections and rules.&lt;/p&gt;</description>
     </item>
     <item>
       <title>circle</title>
-      <link>http://localhost:7270/docs/modules/circle/</link>
+      <link>http://localhost:1313/docs/modules/circle/</link>
       <pubDate>Sat, 30 Sep 2023 05:33:22 +0100</pubDate>
-      <guid>http://localhost:7270/docs/modules/circle/</guid>
+      <guid>http://localhost:1313/docs/modules/circle/</guid>
       <description>&lt;p&gt;dddddd&lt;/p&gt;</description>
     </item>
   </channel>

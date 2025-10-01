@@ -5,7 +5,7 @@ title = 'govcircle'
 [module]
     # uncomment line below for temporary local development of module
     # or when using a 'theme' as a git submodule
-    replacements = "github.com/colinwilson/lotusdocs -> lotusdocs"
+    # replacements = "github.com/colinwilson/lotusdocs -> lotusdocs"
     [[module.imports]]
         path = "github.com/colinwilson/lotusdocs"
         disable = false
@@ -46,7 +46,7 @@ title = 'govcircle'
   # version = true # includes git commit info
 
 [params.social]
-  github = "https://github.com/govcircle"        # YOUR_GITHUB_ID or YOUR_GITHUB_URL
+  github = "govcircle"        # YOUR_GITHUB_ID or YOUR_GITHUB_URL
   #twitter = ""       # YOUR_TWITTER_ID
   # instagram = "colinwilson"     # YOUR_INSTAGRAM_ID
 

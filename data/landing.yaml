@@ -13,7 +13,7 @@ hero:
       mobile: "gradient-mobile.webp"
 
   badge:
-    text: v0.1.0
+    text: v0.1.2
     color: primary # primary, secondary, success, danger, warning, info, light, dark
     pill: false # boolean
     soft: true # boolean
@@ -24,26 +24,26 @@ hero:
   #   alt: "Lotus Docs Logo"
   #   height: 80px
 
-  title: "Lotus Docs"
-  subtitle: A lightweight, **modern documentation** theme for Hugo. Easily customised for building **fast**, **secure**, and **SEO-friendly** documentation sites.
+  title: "GovCircle"
+  subtitle: Built on **Cardano**, **shaped by necessity** — GovCircle gives every actor in the ecosystem the tools to engage, decide, and lead transparently in a borderless democracy.
 
   image:
-    path: "images" # path to image under configured assets directory. default 'images'
-    filename: "lotus_docs_screenshot.png" # filename of your hero image (including file extension)
-    alt: "Lotus Docs Screenshot" # Optional but recommended
+    path: "images/application" # path to image under configured assets directory. default 'images'
+    filename: "Screenshot 2025-09-30 194133.png" # filename of your hero image (including file extension)
+    alt: "Constitution Module Screenshot" # Optional but recommended
     boxShadow: true # default 'false' (excludes .svg images)
     rounded: true # round the image corners? default 'false' (excludes .svg images)
 
   ctaButton:
     icon: rocket_launch
     btnText: "Get Started"
-    url: "/docs/quickstart/#create-a-new-lotus-docs-site"
+    url: "/docs/"
   cta2Button:
     icon: construction
-    btnText: "In Development"
-    url: "https://github.com/colinwilson/lotusdocs"
+    btnText: "View On GitHub"
+    url: "https://github.com/govcircle"
 
-  info: "**Open Source** MIT Licensed."
+  ##info: "**Open Source** MIT Licensed."
 
 # Feature Grid
 featureGrid:
@@ -97,25 +97,25 @@ imageCompare:
   weight: 30
   template: image compare
 
-  title: Customise The Lotus Docs Appearance
-  subtitle: Much of Lotus Docs' appearance can be customised. Dark mode is optional (enabled by default) and you can choose a Google font that suites you via the config parameters.
+  title: Beyond CIP-1694
+  subtitle: Lorem Impsum ..... test 
 
   items:
-    - title: Dark Mode
+    - title: Constitution
       config: {
-        startingPoint: 50,
+        startingPoint: 25,
         addCircle: true,
-        addCircleBlur: false,
+        addCircleBlur: true,
         showLabels: true,
         labelOptions: {
-          before: 'Dark',
-          after: 'Light',
-          onHover: false
+          before: 'GovTools',
+          after: 'GovCircle',
+          onHover: true
         }
       }
-      imagePath: "images/screenshots"
-      imageBefore: "lotusdocs_dark_v0.8.webp"
-      imageAfter: "lotusdocs_light_v0.8.webp"
+      imagePath: "images/application"
+      imageBefore: "Constitution Portal-large.png"
+      imageAfter: "govtool_constitution.png"
 
     - title: Custom Fonts
       config: {

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>introduction on govcircle</title>
+    <link>http://localhost:1313/docs/introduction/</link>
+    <description>Recent content in introduction on govcircle</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 30 Sep 2022 05:33:22 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/docs/introduction/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Overview</title>
+      <link>http://localhost:1313/docs/introduction/overview/</link>
+      <pubDate>Fri, 30 Sep 2022 05:33:22 +0100</pubDate>
+      <guid>http://localhost:1313/docs/introduction/overview/</guid>
+      <description>&lt;p&gt;eddwdssscc&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Story Behing GovCircle</title>
+      <link>http://localhost:1313/docs/introduction/story/</link>
+      <pubDate>Fri, 30 Sep 2022 05:33:22 +0100</pubDate>
+      <guid>http://localhost:1313/docs/introduction/story/</guid>
+      <description>&lt;p&gt;Living in Iran means facing the consequences of centralized power and international sanctions — where the right to shape one’s future is often denied. In such an environment, the idea of freedom becomes more than a concept — it becomes a necessity.&#xA;When we discovered blockchain, and later Cardano’s vision for on-chain decentralized governance, we didn’t just see a new technology — we saw a new hope. A way to contribute to global governance models, to influence decisions that affect communities, and to help build systems where freedom, democracy, and accountability are not dictated by borders.&#xA;But that vision was challenged. Due to jurisdictional restrictions, Iranian contributors were blocked from joining Intersect and excluded from participating in MBOs — key players in Cardano&amp;rsquo;s governance. That exclusion didn’t silence us. It motivated us.&#xA;We envisioned a new path — one that didn’t require permission to contribute. GovCircle emerged from this vision: a product of an Iranian-led MBO initiative that empowers all governance actors — DReps, SPOs, direct voters, Constitution Committee members, and more — to communicate, collaborate, and make transparent decisions on-chain.&#xA;For those of us who’ve lived without access to democracy, decentralized governance isn’t just a concept — it’s a form of resistance. It’s our way of contributing to a future where no one is left out because of where they’re born.&#xA;GovCircle isn’t just a tool — it’s our contribution to building a freer, more accountable world through blockchain.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Vision</title>
+      <link>http://localhost:1313/docs/introduction/vision/</link>
+      <pubDate>Fri, 30 Sep 2022 05:33:22 +0100</pubDate>
+      <guid>http://localhost:1313/docs/introduction/vision/</guid>
+      <description>&lt;p&gt;At GovCircle, we envision a future where decentralized governance is not just a mechanism, but a culture — one rooted in transparency, trust, and meaningful participation. In this future, Cardano becomes the benchmark for how communities govern themselves: collaboratively, intelligently, and inclusively. We aim to make GovCircle the social layer of Cardano’s governance — a space where Delegated Representatives (DReps), voters, and ecosystem leaders converge to discuss, align, and act. By bridging communication gaps and amplifying informed voices, we’re building the foundation for a self-sustaining, community-led future — where governance drives innovation, not bureaucracy.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mission</title>
+      <link>http://localhost:1313/docs/introduction/mission/</link>
+      <pubDate>Fri, 30 Sep 2022 05:33:22 +0100</pubDate>
+      <guid>http://localhost:1313/docs/introduction/mission/</guid>
+      <description>&lt;p&gt;At GovCircle, our mission is to empower a transparent, inclusive, and agile governance culture within the Cardano ecosystem. We bridge the communication gap between key actors — DReps, SPOs, direct voters, CCs and the broader community — by providing tools that foster meaningful dialogue, informed decision-making, and collective action. We are committed to enabling the Cardano community to shape the ecosystem’s evolution through collaboration, trust, and shared responsibility — ensuring that decentralized governance works for everyone.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Core Value</title>
+      <link>http://localhost:1313/docs/introduction/core_value/</link>
+      <pubDate>Fri, 30 Sep 2022 05:33:22 +0100</pubDate>
+      <guid>http://localhost:1313/docs/introduction/core_value/</guid>
+      <description>&lt;h3 id=&#34;-transparency-with-balance&#34;&gt;🔹 Transparency with Balance &lt;a href=&#34;#-transparency-with-balance&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;We believe transparency is essential — but not at the cost of personal security. We embrace tools like Midnight to offer a balanced governance experience that respects both openness and privacy.&lt;/p&gt;&#xA;&lt;h4 id=&#34;-open-participation&#34;&gt;🔹 Open Participation &lt;a href=&#34;#-open-participation&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Every role in Cardano governance — from any country, any background — deserves equal opportunity to act. GovCircle enables MBOs and individuals to contribute meaningfully, without central permission.&lt;/p&gt;&#xA;&lt;h3 id=&#34;-radical-inclusivity&#34;&gt;🔹 Radical Inclusivity &lt;a href=&#34;#-radical-inclusivity&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Whether you&amp;rsquo;re a blockchain expert or new to decentralized governance, GovCircle works for you. Our dual-mode design makes participation accessible to everyone.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Why GovCircle</title>
+      <link>http://localhost:1313/docs/introduction/why_govcircle/</link>
+      <pubDate>Fri, 30 Sep 2022 05:33:22 +0100</pubDate>
+      <guid>http://localhost:1313/docs/introduction/why_govcircle/</guid>
+      <description>&lt;p&gt;Cardano is entering a new era of decentralized governance but coordination, communication, and global inclusion remain serious challenges.&#xA;GovCircle is built to solve this.&#xA;We are more than a governance platform. GovCircle is the cultural and technical infrastructure for the future of Cardano governance where every actor has the power, voice, and tools to contribute meaningfully, safely, and transparently.&#xA;By combining open access, layered collaboration, decentralized identity, and AI-driven usability, we turn complex governance into a human-centered, community-led process.&#xA;In GovCircle, governance is not a system. It&amp;rsquo;s a movement.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

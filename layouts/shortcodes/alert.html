@@ -1,0 +1,8 @@
+{{ $context := .Get "context" | default "info" }}
+{{ $text := .Get "text" | default "" }}
+{{ $content := .Inner | default $text }}
+<div class="alert alert-{{ $context }}" role="alert">
+  {{ $content | markdownify }}
+</div>
+
+
