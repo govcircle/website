@@ -59,9 +59,9 @@ featureGrid:
       icon: speed
       description: 4 x 100's score on Google Lighthouse by default. Lotus Docs removes unused CSS, prefetches asset links, and lazy loads content images.
 
-    - title: SEO Friendly
-      icon: trending_up
-      description: Data is automatically structured to be SEO friendly. Includes Meta tags, Opengraph, and Twitter cards. Choose the settings that best suit you.
+    - title: Fast Collaboration
+      icon: bolt
+      description: Enhances collaboration between governance actors through social media integration — enabling Actors to connect, share  and discuss governance topics seamlessly within one unified environment.
 
     - title: Secure by default
       icon: lock
@@ -90,62 +90,3 @@ featureGrid:
     - title: Bootstrap v5
       icon: palette
       description: Built on Bootstrap 5, Lotus Docs allows for a familiar, flexible, and intuitive developer experience. Easily customise your site via SCSS variables and files.
-
-# Image compare
-imageCompare:
-  enable: true
-  weight: 30
-  template: image compare
-
-  title: Beyond CIP-1694
-  subtitle: Lorem Impsum ..... test 
-
-  items:
-    - title: Constitution
-      config: {
-        startingPoint: 25,
-        addCircle: true,
-        addCircleBlur: true,
-        showLabels: true,
-        labelOptions: {
-          before: 'GovTools',
-          after: 'GovCircle',
-          onHover: true
-        }
-      }
-      imagePath: "images/application"
-      imageBefore: "Constitution Portal-large.png"
-      imageAfter: "govtool_constitution.png"
-
-    - title: Custom Fonts
-      config: {
-        controlColor: "#3C4257",
-        startingPoint: 25,
-        addCircle: true,
-        addCircleBlur: false,
-        showLabels: true,
-        labelOptions: {
-          before: 'Inter',
-          after: 'Life Saver',
-          onHover: false
-        }
-      }
-      imagePath: "images/screenshots"
-      imageBefore: "lotusdocs_google_font_demo_inter_screenshot.webp"
-      imageAfter: "lotusdocs_google_font_demo_lifesavers_screenshot.webp"
-
-    - title: Accent Color
-      config: {
-        startingPoint: 25,
-        addCircle: true,
-        addCircleBlur: true,
-        showLabels: true,
-        labelOptions: {
-          before: 'Blue',
-          after: 'Cardinal',
-          onHover: false
-        }
-      }
-      imagePath: "images/screenshots"
-      imageBefore: "lotusdocs_blue_theme_colour.webp"
-      imageAfter: "lotusdocs_cardinal_theme_colour.webp"
