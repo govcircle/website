@@ -214,9 +214,21 @@
                     
                 </div>
             </a>
-            <button id="close-sidebar" class="btn btn-icon btn-soft" style="position: relative; z-index: 1100; pointer-events: auto;" onclick="document.getElementsByClassName('page-wrapper')[0].classList.toggle('toggled')">
+            <button id="close-sidebar" type="button" class="btn btn-icon btn-soft" style="position: relative; z-index: 1100; pointer-events: auto;" onclick="document.getElementsByClassName('page-wrapper')[0].classList.toggle('toggled')">
                 <span class="material-icons size-20 menu-icon align-middle">menu</span>
             </button>
+            <script>(function(){
+                var btn=document.getElementById('close-sidebar');
+                if(!btn) return;
+                function toggleSidebar(e){
+                    try{ e && e.preventDefault && e.preventDefault(); }catch(_){ }
+                    var wrap=document.getElementsByClassName('page-wrapper')[0];
+                    if(!wrap) return;
+                    wrap.classList.toggle('toggled');
+                }
+                btn.addEventListener('click', toggleSidebar);
+                try{ btn.addEventListener('touchstart', toggleSidebar, {passive:false}); }catch(_){ }
+            })();</script>
             
             
                     

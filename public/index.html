@@ -135,7 +135,7 @@
             <div class="menu-extras ms-3 me-2">
                 <div class="menu-item">
                     
-                    <button class="navbar-toggle btn btn-icon btn-soft-light" id="isToggle" aria-label="toggleMenu" onclick="toggleMenu()">
+                    <button class="navbar-toggle btn btn-icon btn-soft-light" id="isToggle" aria-label="toggleMenu" onclick="try{toggleMenu()}catch(e){var t=document.getElementById('isToggle');if(t){t.classList.toggle('open')}var n=document.getElementById('navigation');if(n){n.style.display=n.style.display==='block'?'none':'block'}}" style="position: relative; z-index: 1100; pointer-events: auto;">
                         <div class="lines">
                             <span></span>
                             <span></span>
@@ -235,9 +235,9 @@
 
                     <div class="mt-3">
                         
-                            <a href="/docs/" class="btn btn-lg btn-primary me-2 mt-2">
+                            <a href="/docs/" class="btn btn-lg btn-primary px-4 me-2 mt-2 d-inline-flex align-items-center">
                                 
-                                    <span class="material-icons align-middle">rocket_launch</span>
+                                    <span class="material-icons align-middle me-1">rocket_launch</span>
                                 
                                 
                                     Get Started
@@ -245,9 +245,9 @@
                             </a>
                         
                         
-                        <a href="https://github.com/govcircle" class="btn btn-lg btn-outline-primary mt-2">
+                        <a href="https://github.com/govcircle" class="btn btn-lg btn-outline-primary px-4 mt-2 d-inline-flex align-items-center">
                             
-                                <span class="material-icons align-middle">construction</span>
+                                <span class="material-icons align-middle me-1">construction</span>
                             
                             
                                 View On GitHub
