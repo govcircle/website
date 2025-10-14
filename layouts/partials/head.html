@@ -1,0 +1,45 @@
+<head>
+    <meta charset="utf-8" />
+    <title>{{ .Site.Title }}</title>
+    {{- if not hugo.IsProduction }}
+    <meta name="robots" content="noindex">
+    {{- end }}
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    {{- with .Description | default ($.Param "description") }}
+    <meta name="description" content="{{ . }}">
+    {{- end }}
+    <meta name="keywords" content="Governance, Cardano, Blockchain, Democracy, On-Chain Data, Real-World Integration" />
+    <meta name="author" content="{{ .Site.Params.author | default "GovCircle Team" }}" />
+    <meta name="email" content="{{ .Site.Params.email | default "support@govcircle.space" }}" />
+    <meta name="website" content="{{ .Site.Params.website | default "http://govcircle.space" }}" />
+    <meta name="Version" content="v0.1.2" />
+    
+    <!-- favicon -->
+    {{ block "favicon" . }}{{ partialCached "head/favicon.html" . }}{{ end }}
+    
+    <!-- Open Graph -->
+    {{- partial "head/opengraph.html" . }}
+    
+    <!-- Twitter Cards -->
+    {{- partial "head/twitter_cards.html" . }}
+    
+    <!-- Atom feed autodiscovery -->
+    {{- with .Site.Title }}
+        <link rel="alternate" type="application/atom+xml" title="Atom feed for {{ . }}" href="/index.xml" />
+    {{- end }}
+    
+    <!-- Google Fonts -->
+    {{- partialCached "google-fonts" . }}
+    
+    <!-- Custom CSS -->
+    {{- $options := dict "enableSourceMap" true }}
+    {{- if hugo.IsProduction}}
+        {{- $options := dict "enableSourceMap" false "outputStyle" "compressed" }}
+    {{- end }}
+    {{- $style := resources.Get "scss/style.scss" }}
+    {{- $style = $style | resources.ExecuteAsTemplate "scss/style.scss" . | css.Sass $options }}
+    {{- if hugo.IsProduction }}
+        {{- $style = $style | minify | fingerprint "sha384" }}
+    {{- end -}}
+    <link rel="stylesheet" href="{{ $style.RelPermalink }}" {{ if hugo.IsProduction }}integrity="{{ $style.Data.Integrity }}"{{ end -}} crossorigin="anonymous">
+</head>

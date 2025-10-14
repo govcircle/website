@@ -40,6 +40,12 @@ title = 'govcircle'
   sans_serif_font = "Inter"     # Default is System font
   secondary_font  = "Inter"     # Default is System font
   mono_font       = "Fira Code" # Default is System font
+  
+  # Meta tags for social media sharing
+  author = "GovCircle Team"
+  email = "support@govcircle.space"
+  website = "https://govcircle.space"
+  description = "Bridging On-Chain Governance Data with Real-World Governance Insights."
 
 [params.footer]
   copyright = "© :YEAR: GovCircle. All rights reserved."

@@ -1,0 +1,10 @@
+{{- $featured := false -}}
+{{- if .Params.featured_image -}}
+    {{- $featured = .Resources.GetMatch .Params.featured_image -}}
+{{- else -}}
+    {{- $images := .Resources.ByType "image" -}}
+    {{- if $images -}}
+        {{- $featured = index $images 0 -}}
+    {{- end -}}
+{{- end -}}
+{{- return $featured -}}
