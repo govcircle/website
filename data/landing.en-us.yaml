@@ -51,42 +51,42 @@ featureGrid:
   weight: 20
   template: feature grid
 
-  title: Why choose Lotus Docs?
-  subtitle: Lotus Docs is a highly configurable Hugo documentation theme. Yet, with the default configuration you can deploy and publish your documentation site in a matter of minutes. Check out some core features below.
+  title: Why choose GovCircle?
+  subtitle: GovCircle bridges the gap between on-chain data and real-world governance insights. Our platform provides comprehensive tools for transparent, borderless democracy. Discover our core features below.
 
   items:
-    - title: Fast
+    - title: On-Chain Data Integration
       icon: speed
-      description: 4 x 100's score on Google Lighthouse by default. Lotus Docs removes unused CSS, prefetches asset links, and lazy loads content images.
+      description: Seamlessly connect blockchain data with real-world governance processes. Access comprehensive on-chain analytics and insights for informed decision-making.
 
-    - title: SEO Friendly
+    - title: Transparent Governance
       icon: trending_up
-      description: Data is automatically structured to be SEO friendly. Includes Meta tags, Opengraph, and Twitter cards. Choose the settings that best suit you.
+      description: Enhance collaboration between governance actors through transparent processes — enabling stakeholders to connect, share, and discuss governance topics within a unified environment.
 
-    - title: Secure by default
+    - title: Secure by Design
       icon: lock
-      description: Lotus Docs' default configuration scores A+ on Mozilla Observatory. You can update the default Security Headers to suit your requirements.
+      description: Built on Cardano's secure infrastructure with enterprise-grade security. All governance data is cryptographically secured and verifiable on-chain.
 
-    - title: Optional Features
+    - title: Configurable Modules
       icon: settings
-      description: Many Lotus Docs features are configurable via optional parameters. Require DocSearch for your site? Then enable it via a single setting.
+      description: Flexible governance modules that can be configured for different use cases. Customize voting mechanisms, proposal systems, and decision-making processes to suit your organization.
 
-    - title: Deploy to Vercel
+    - title: Real-World Integration
       icon: change_history
-      description: Deploy to Vercel in seconds. Vercel Functions, Vercel Redirects/Rewrites, and Vercel Headers are all configurable for an enriched experience.
+      description: Bridge the gap between blockchain governance and traditional institutions. Connect with existing governance frameworks while maintaining transparency and accountability.
 
-    - title: Dark Mode
+    - title: User-Friendly Interface
       icon: dark_mode
-      description: "Prefer not to be blasted by the sun while reading? Switch to a low-light UI with the click of a button. Modify colour variables to match your branding."
+      description: "Intuitive design that makes complex governance processes accessible to all stakeholders. Clean, modern interface with customizable themes and accessibility features."
 
-    - title: Search by DocSearch
+    - title: Advanced Analytics
       icon: search
-      description: Search your docs with DocSearch. A powerful, efficient and accessible search solution built on Algolia Crawler & Autocomplete.
+      description: Powerful analytics and reporting tools that provide insights into governance patterns, participation rates, and decision outcomes. Make data-driven governance decisions.
 
-    - title: Multilingual Support
+    - title: Global Accessibility
       icon: translate
-      description: Lotus Docs supports Hugo's Multilingual Mode. Create documentation in multiple languages side by side with i18n support.
+      description: Support for multiple languages and cultural contexts. Ensure governance processes are accessible to diverse global communities with inclusive design principles.
 
-    - title: Bootstrap v5
+    - title: Open Source Foundation
       icon: palette
-      description: Built on Bootstrap 5, Lotus Docs allows for a familiar, flexible, and intuitive developer experience. Easily customise your site via SCSS variables and files.
+      description: Built on open-source principles with transparent development processes. Community-driven governance tools that can be audited, modified, and improved by stakeholders.
