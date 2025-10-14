@@ -53,7 +53,6 @@ title = 'govcircle'
 
 [params.social]
   github = "govcircle"        # YOUR_GITHUB_ID or YOUR_GITHUB_URL
-  linkedin = "govcircle"
   twitter = "govcircle"       # YOUR_TWITTER_ID
   # instagram = "colinwilson"     # YOUR_INSTAGRAM_ID
   
