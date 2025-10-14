@@ -1,4 +1,4 @@
-baseURL = 'http://govcircle.space/'
+baseURL = 'https://govcircle.space/'
 languageCode = 'en-us'
 title = 'govcircle'
 
@@ -53,8 +53,10 @@ title = 'govcircle'
 
 [params.social]
   github = "govcircle"        # YOUR_GITHUB_ID or YOUR_GITHUB_URL
-  #twitter = ""       # YOUR_TWITTER_ID
+  linkedin = "govcircle"
+  twitter = "govcircle"       # YOUR_TWITTER_ID
   # instagram = "colinwilson"     # YOUR_INSTAGRAM_ID
+  
 
 
 [params.docs] # Parameters for the /docs 'template'

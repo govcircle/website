@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on govcircle</title>
-    <link>http://govcircle.space/tags/</link>
+    <link>https://govcircle.space/tags/</link>
     <description>Recent content in Tags on govcircle</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://govcircle.space/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://govcircle.space/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

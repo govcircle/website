@@ -18,12 +18,6 @@ hero:
     pill: false # boolean
     soft: true # boolean
 
-  # titleLogo:
-  #   path: "images/logos"
-  #   filename: "title_logo.png"
-  #   alt: "Lotus Docs Logo"
-  #   height: 80px
-
   title: "GovCircle"
   subtitle: Built on **Cardano**, **shaped by necessity** — GovCircle gives every actor in the ecosystem the tools to engage, decide, and lead transparently in a borderless democracy.
 
