@@ -1,7 +1,7 @@
 {{/* Prefer custom Logo.png stored under static/logos or assets build to static */}}
 {{ $logo := "logos/Logo.png" }}
 {{ if os.FileExists (printf "static/%s" $logo) -}}
-<link rel="icon" type="image/png" href="{{ $logo | absURL }}">
+<link rel="icon" type="image/png" href="https://govcircle.space/{{ $logo }}">
 {{ else -}}
   {{/* Fallback to theme defaults if custom logo not present in static */}}
   {{ if os.FileExists "static/favicon.ico" -}}
