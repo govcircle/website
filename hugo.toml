@@ -46,6 +46,7 @@ title = 'govcircle'
   email = "support@govcircle.space"
   website = "https://govcircle.space"
   description = "Bridging On-Chain Governance Data with Real-World Governance Insights."
+  title = "GovCircle"
 
 [params.footer]
   copyright = "© :YEAR: GovCircle. All rights reserved."
