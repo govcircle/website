@@ -5,6 +5,9 @@
   <meta name="robots" content="noindex" />
   {{- end }}
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  {{- with .Site.Params.googleSiteVerification }}
+  <meta name="google-site-verification" content="{{ . }}" />
+  {{- end }}
   {{- with .Description | default ($.Param "description") }}
   <meta name="description" content="{{ . }}" />
   {{- end }}
