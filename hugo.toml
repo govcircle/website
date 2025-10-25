@@ -1,6 +1,6 @@
 baseURL = 'https://govcircle.space/'
 languageCode = 'en-us'
-title = 'govcircle'
+title = 'GovCircle'
 
 [module]
     # uncomment line below for temporary local development of module
@@ -45,8 +45,11 @@ title = 'govcircle'
   author = "Talatom Labs"
   email = "support@govcircle.space"
   website = "https://govcircle.space"
-  description = "Bridging On-Chain Governance Data with Real-World Governance Insights."
+  description = "Bridging Cardano On-Chain Governance Data with Real-World Governance Insights."
   title = "GovCircle"
+  # Primary image(s) used for Open Graph / Twitter previews. Use a path under /static/ so
+  # `absURL` will resolve it to the full site URL (e.g. https://govcircle.space/logos/Logo.png).
+  images = ["/logos/Frame.png"]
 
 [params.footer]
   copyright = "© :YEAR: GovCircle. All rights reserved."
