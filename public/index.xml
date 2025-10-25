@@ -1,82 +1,218 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Home on GovCircle</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content in Home on GovCircle</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 08 Sep 2023 05:12:51 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Overview</title>
-      <link>http://localhost:1313/docs/introduction/overview/</link>
-      <pubDate>Fri, 30 Sep 2022 05:33:22 +0100</pubDate>
-      <guid>http://localhost:1313/docs/introduction/overview/</guid>
-      <description>&lt;p&gt;eddwdssscc&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Story Behing GovCircle</title>
-      <link>http://localhost:1313/docs/introduction/story/</link>
-      <pubDate>Fri, 30 Sep 2022 05:33:22 +0100</pubDate>
-      <guid>http://localhost:1313/docs/introduction/story/</guid>
-      <description>&lt;p&gt;Living in Iran means facing the consequences of centralized power and international sanctions — where the right to shape one’s future is often denied. In such an environment, the idea of freedom becomes more than a concept — it becomes a necessity.&#xA;When we discovered blockchain, and later Cardano’s vision for on-chain decentralized governance, we didn’t just see a new technology — we saw a new hope. A way to contribute to global governance models, to influence decisions that affect communities, and to help build systems where freedom, democracy, and accountability are not dictated by borders.&#xA;But that vision was challenged. Due to jurisdictional restrictions, Iranian contributors were blocked from joining Intersect and excluded from participating in MBOs — key players in Cardano&amp;rsquo;s governance. That exclusion didn’t silence us. It motivated us.&#xA;We envisioned a new path — one that didn’t require permission to contribute. GovCircle emerged from this vision: a product of an Iranian-led MBO initiative that empowers all governance actors — DReps, SPOs, direct voters, Constitution Committee members, and more — to communicate, collaborate, and make transparent decisions on-chain.&#xA;For those of us who’ve lived without access to democracy, decentralized governance isn’t just a concept — it’s a form of resistance. It’s our way of contributing to a future where no one is left out because of where they’re born.&#xA;GovCircle isn’t just a tool — it’s our contribution to building a freer, more accountable world through blockchain.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Vision</title>
-      <link>http://localhost:1313/docs/introduction/vision/</link>
-      <pubDate>Fri, 30 Sep 2022 05:33:22 +0100</pubDate>
-      <guid>http://localhost:1313/docs/introduction/vision/</guid>
-      <description>&lt;p&gt;At GovCircle, we envision a future where decentralized governance is not just a mechanism, but a culture — one rooted in transparency, trust, and meaningful participation. In this future, Cardano becomes the benchmark for how communities govern themselves: collaboratively, intelligently, and inclusively. We aim to make GovCircle the social layer of Cardano’s governance — a space where Delegated Representatives (DReps), voters, and ecosystem leaders converge to discuss, align, and act. By bridging communication gaps and amplifying informed voices, we’re building the foundation for a self-sustaining, community-led future — where governance drives innovation, not bureaucracy.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Mission</title>
-      <link>http://localhost:1313/docs/introduction/mission/</link>
-      <pubDate>Fri, 30 Sep 2022 05:33:22 +0100</pubDate>
-      <guid>http://localhost:1313/docs/introduction/mission/</guid>
-      <description>&lt;p&gt;At GovCircle, our mission is to empower a transparent, inclusive, and agile governance culture within the Cardano ecosystem. We bridge the communication gap between key actors — DReps, SPOs, direct voters, CCs and the broader community — by providing tools that foster meaningful dialogue, informed decision-making, and collective action. We are committed to enabling the Cardano community to shape the ecosystem’s evolution through collaboration, trust, and shared responsibility — ensuring that decentralized governance works for everyone.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Core Value</title>
-      <link>http://localhost:1313/docs/introduction/core_value/</link>
-      <pubDate>Fri, 30 Sep 2022 05:33:22 +0100</pubDate>
-      <guid>http://localhost:1313/docs/introduction/core_value/</guid>
-      <description>&lt;h3 id=&#34;-transparency-with-balance&#34;&gt;🔹 Transparency with Balance &lt;a href=&#34;#-transparency-with-balance&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;We believe transparency is essential — but not at the cost of personal security. We embrace tools like Midnight to offer a balanced governance experience that respects both openness and privacy.&lt;/p&gt;&#xA;&lt;h4 id=&#34;-open-participation&#34;&gt;🔹 Open Participation &lt;a href=&#34;#-open-participation&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Every role in Cardano governance — from any country, any background — deserves equal opportunity to act. GovCircle enables MBOs and individuals to contribute meaningfully, without central permission.&lt;/p&gt;&#xA;&lt;h3 id=&#34;-radical-inclusivity&#34;&gt;🔹 Radical Inclusivity &lt;a href=&#34;#-radical-inclusivity&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Whether you&amp;rsquo;re a blockchain expert or new to decentralized governance, GovCircle works for you. Our dual-mode design makes participation accessible to everyone.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Why GovCircle</title>
-      <link>http://localhost:1313/docs/introduction/why_govcircle/</link>
-      <pubDate>Fri, 30 Sep 2022 05:33:22 +0100</pubDate>
-      <guid>http://localhost:1313/docs/introduction/why_govcircle/</guid>
-      <description>&lt;p&gt;Cardano is entering a new era of decentralized governance but coordination, communication, and global inclusion remain serious challenges.&#xA;GovCircle is built to solve this.&#xA;We are more than a governance platform. GovCircle is the cultural and technical infrastructure for the future of Cardano governance where every actor has the power, voice, and tools to contribute meaningfully, safely, and transparently.&#xA;By combining open access, layered collaboration, decentralized identity, and AI-driven usability, we turn complex governance into a human-centered, community-led process.&#xA;In GovCircle, governance is not a system. It&amp;rsquo;s a movement.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>constitution</title>
-      <link>http://localhost:1313/docs/modules/constitution/</link>
-      <pubDate>Sat, 30 Sep 2023 05:33:22 +0100</pubDate>
-      <guid>http://localhost:1313/docs/modules/constitution/</guid>
-      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview &lt;a href=&#34;#overview&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The Constitution Module in GovCircle enhances the governance structure introduced in CIP-1694 by offering a dynamic and collaborative environment for managing, modifying, and discussing the Cardano Constitution. This module builds upon the foundational concept of the Constitution as defined in CIP-1694 while introducing powerful tools and workflows to make governance more accessible, transparent, and participatory.&lt;/p&gt;&#xA;&lt;h2 id=&#34;architecture&#34;&gt;Architecture &lt;a href=&#34;#architecture&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;In the current architecture outlined by CIP-1694, the Constitution is stored on the Cardano blockchain as a hash of a text file. This method ensures immutability and transparency by preserving the Constitution as a record on-chain. However, this static structure lacks the flexibility required for dynamic governance processes, including collaboration, updates, and categorization of the Constitution&amp;rsquo;s sections and rules.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>circle</title>
-      <link>http://localhost:1313/docs/modules/circle/</link>
-      <pubDate>Sat, 30 Sep 2023 05:33:22 +0100</pubDate>
-      <guid>http://localhost:1313/docs/modules/circle/</guid>
-      <description>&lt;p&gt;dddddd&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Code</title>
-      <link>http://localhost:1313/docs/example-content/code/</link>
-      <pubDate>Mon, 22 May 2023 00:44:31 +0100</pubDate>
-      <guid>http://localhost:1313/docs/example-content/code/</guid>
-      <description>&lt;div class=&#34;alert alert-warning&#34; role=&#34;alert&#34;&gt;&#xD;&#xA;  The front matter &lt;code&gt;description&lt;/code&gt; value for this page has been intentionally left empty in order to demonstrate FlexSearch&amp;rsquo;s suggested results fallback behaviour.&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;h2 id=&#34;code-block-examples&#34;&gt;Code Block Examples &lt;a href=&#34;#code-block-examples&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Code block language examples&lt;/p&gt;&#xA;&lt;h3 id=&#34;go&#34;&gt;Go &lt;a href=&#34;#go&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h3&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;  &#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;  &#xD;&#xA;  &#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;  &lt;div class=&#34;prism-codeblock &#34;&gt;&#xD;&#xA;  &lt;pre id=&#34;9a3c1c7&#34; class=&#34;language-go &#34;&gt;&#xD;&#xA;  &lt;code&gt;package main&#xD;&#xA;&#xD;&#xA;import &amp;#34;fmt&amp;#34;&#xD;&#xA;&#xD;&#xA;func main() {&#xD;&#xA;    fmt.Println(&amp;#34;hello world&amp;#34;)&#xD;&#xA;}&lt;/code&gt;&#xD;&#xA;  &lt;/pre&gt;&#xD;&#xA;  &lt;/div&gt;&#xD;&#xA;&lt;h3 id=&#34;html&#34;&gt;HTML &lt;a href=&#34;#html&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h3&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;  &#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;  &#xD;&#xA;  &#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;  &lt;div class=&#34;prism-codeblock &#34;&gt;&#xD;&#xA;  &lt;pre id=&#34;97da112&#34; class=&#34;language-html &#34;&gt;&#xD;&#xA;  &lt;code&gt;&amp;lt;!DOCTYPE html&amp;gt;&#xD;&#xA;&amp;lt;html&amp;gt;&#xD;&#xA;&amp;lt;body&amp;gt;&#xD;&#xA;&#xD;&#xA;&amp;lt;h1&amp;gt;My First Heading&amp;lt;/h1&amp;gt;&#xD;&#xA;&#xD;&#xA;&amp;lt;p&amp;gt;My first paragraph.&amp;lt;/p&amp;gt;&#xD;&#xA;&#xD;&#xA;&amp;lt;/body&amp;gt;&#xD;&#xA;&amp;lt;/html&amp;gt;&lt;/code&gt;&#xD;&#xA;  &lt;/pre&gt;&#xD;&#xA;  &lt;/div&gt;&#xD;&#xA;&lt;h3 id=&#34;markdown&#34;&gt;Markdown &lt;a href=&#34;#markdown&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h3&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;  &#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;  &#xD;&#xA;  &#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;  &lt;div class=&#34;prism-codeblock &#34;&gt;&#xD;&#xA;  &lt;pre id=&#34;cab457f&#34; class=&#34;language-md &#34;&gt;&#xD;&#xA;  &lt;code&gt;# H1 heading&#xD;&#xA;&#xD;&#xA;**Some bold text**&#xD;&#xA;&#xD;&#xA;*Italic text example*&lt;/code&gt;&#xD;&#xA;  &lt;/pre&gt;&#xD;&#xA;  &lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Mermaid</title>
-      <link>http://localhost:1313/docs/example-content/mermaid/</link>
-      <pubDate>Fri, 08 Sep 2023 05:12:51 +0100</pubDate>
-      <guid>http://localhost:1313/docs/example-content/mermaid/</guid>
-      <description>&lt;h2 id=&#34;flowchart&#34;&gt;Flowchart &lt;a href=&#34;#flowchart&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;pre class=&#34;mermaid&#34;&gt;flowchart LR&#xD;&#xA;&#xD;&#xA;A[Hard] --&amp;gt;|Text| B(Round)&#xD;&#xA;B --&amp;gt; C{Decision}&#xD;&#xA;C --&amp;gt;|One| D[Result 1]&#xD;&#xA;C --&amp;gt;|Two| E[Result 2]&#xD;&#xA;&lt;/pre&gt;&#xD;&#xA;&lt;h2 id=&#34;sequence-diagram&#34;&gt;Sequence diagram &lt;a href=&#34;#sequence-diagram&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;pre class=&#34;mermaid&#34;&gt;sequenceDiagram&#xD;&#xA;Alice-&amp;gt;&amp;gt;John: Hello John, how are you?&#xD;&#xA;loop Healthcheck&#xD;&#xA;    John-&amp;gt;&amp;gt;John: Fight against hypochondria&#xD;&#xA;end&#xD;&#xA;Note right of John: Rational thoughts!&#xD;&#xA;John--&amp;gt;&amp;gt;Alice: Great!&#xD;&#xA;John-&amp;gt;&amp;gt;Bob: How about you?&#xD;&#xA;Bob--&amp;gt;&amp;gt;John: Jolly good!&#xD;&#xA;&lt;/pre&gt;&#xD;&#xA;&lt;h2 id=&#34;gantt-chart&#34;&gt;Gantt Chart &lt;a href=&#34;#gantt-chart&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;pre class=&#34;mermaid&#34;&gt;gantt&#xD;&#xA;    section Section&#xD;&#xA;    Completed :done,    des1, 2014-01-06,2014-01-08&#xD;&#xA;    Active        :active,  des2, 2014-01-07, 3d&#xD;&#xA;    Parallel 1   :         des3, after des1, 1d&#xD;&#xA;    Parallel 2   :         des4, after des1, 1d&#xD;&#xA;    Parallel 3   :         des5, after des3, 1d&#xD;&#xA;    Parallel 4   :         des6, after des4, 1d&#xD;&#xA;&lt;/pre&gt;&#xD;&#xA;&lt;h2 id=&#34;class-diagram&#34;&gt;Class diagram &lt;a href=&#34;#class-diagram&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;pre class=&#34;mermaid&#34;&gt;classDiagram&#xD;&#xA;Class01 &amp;lt;|-- AveryLongClass : Cool&#xD;&#xA;&amp;lt;&amp;lt;interface&amp;gt;&amp;gt; Class01&#xD;&#xA;Class09 --&amp;gt; C2 : Where am i?&#xD;&#xA;Class09 --* C3&#xD;&#xA;Class09 --|&amp;gt; Class07&#xD;&#xA;Class07 : equals()&#xD;&#xA;Class07 : Object[] elementData&#xD;&#xA;Class01 : size()&#xD;&#xA;Class01 : int chimp&#xD;&#xA;Class01 : int gorilla&#xD;&#xA;class Class10 {&#xD;&#xA;  &amp;gt;&amp;gt;service&amp;gt;&amp;gt;&#xD;&#xA;  int id&#xD;&#xA;  size()&#xD;&#xA;}&#xD;&#xA;&lt;/pre&gt;&#xD;&#xA;&lt;h2 id=&#34;state-diagram&#34;&gt;State diagram &lt;a href=&#34;#state-diagram&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;pre class=&#34;mermaid&#34;&gt;stateDiagram-v2&#xD;&#xA;[*] --&amp;gt; Still&#xD;&#xA;Still --&amp;gt; [*]&#xD;&#xA;Still --&amp;gt; Moving&#xD;&#xA;Moving --&amp;gt; Still&#xD;&#xA;Moving --&amp;gt; Crash&#xD;&#xA;Crash --&amp;gt; [*]&#xD;&#xA;&lt;/pre&gt;&#xD;&#xA;&lt;h2 id=&#34;pie-chart&#34;&gt;Pie Chart &lt;a href=&#34;#pie-chart&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;pre class=&#34;mermaid&#34;&gt;pie&#xD;&#xA;&amp;#34;Dogs&amp;#34; : 386&#xD;&#xA;&amp;#34;Cats&amp;#34; : 85.9&#xD;&#xA;&amp;#34;Rats&amp;#34; : 15&#xD;&#xA;&lt;/pre&gt;&#xD;&#xA;&lt;h2 id=&#34;git-graph&#34;&gt;Git Graph &lt;a href=&#34;#git-graph&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;pre class=&#34;mermaid&#34;&gt;    gitGraph&#xD;&#xA;      commit&#xD;&#xA;      commit&#xD;&#xA;      branch develop&#xD;&#xA;      checkout develop&#xD;&#xA;      commit&#xD;&#xA;      commit&#xD;&#xA;      checkout main&#xD;&#xA;      merge develop&#xD;&#xA;      commit&#xD;&#xA;      commit&#xD;&#xA;&lt;/pre&gt;&#xD;&#xA;&lt;h2 id=&#34;bar-chart-using-gantt-chart&#34;&gt;Bar chart (using gantt chart) &lt;a href=&#34;#bar-chart-using-gantt-chart&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;pre class=&#34;mermaid&#34;&gt;gantt&#xD;&#xA;    title Git Issues - days since last update&#xD;&#xA;    dateFormat  X&#xD;&#xA;    axisFormat %s&#xD;&#xA;&#xD;&#xA;    section Issue19062&#xD;&#xA;    71   : 0, 71&#xD;&#xA;    section Issue19401&#xD;&#xA;    36   : 0, 36&#xD;&#xA;    section Issue193&#xD;&#xA;    34   : 0, 34&#xD;&#xA;    section Issue7441&#xD;&#xA;    9    : 0, 9&#xD;&#xA;    section Issue1300&#xD;&#xA;    5    : 0, 5&#xD;&#xA;&lt;/pre&gt;&#xD;&#xA;&lt;h2 id=&#34;user-journey-diagram&#34;&gt;User Journey diagram &lt;a href=&#34;#user-journey-diagram&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;pre class=&#34;mermaid&#34;&gt;  journey&#xD;&#xA;    title My working day&#xD;&#xA;    section Go to work&#xD;&#xA;      Make tea: 5: Me&#xD;&#xA;      Go upstairs: 3: Me&#xD;&#xA;      Do work: 1: Me, Cat&#xD;&#xA;    section Go home&#xD;&#xA;      Go downstairs: 5: Me&#xD;&#xA;      Sit down: 3: Me&#xD;&#xA;&lt;/pre&gt;&#xD;&#xA;&lt;h2 id=&#34;c4-diagram&#34;&gt;C4 diagram &lt;a href=&#34;#c4-diagram&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;pre class=&#34;mermaid&#34;&gt;C4Context&#xD;&#xA;title System Context diagram for Internet Banking System&#xD;&#xA;&#xD;&#xA;Person(customerA, &amp;#34;Banking Customer A&amp;#34;, &amp;#34;A customer of the bank, with personal bank accounts.&amp;#34;)&#xD;&#xA;Person(customerB, &amp;#34;Banking Customer B&amp;#34;)&#xD;&#xA;Person_Ext(customerC, &amp;#34;Banking Customer C&amp;#34;)&#xD;&#xA;System(SystemAA, &amp;#34;Internet Banking System&amp;#34;, &amp;#34;Allows customers to view information about their bank accounts, and make payments.&amp;#34;)&#xD;&#xA;&#xD;&#xA;Person(customerD, &amp;#34;Banking Customer D&amp;#34;, &amp;#34;A customer of the bank, &amp;lt;br/&amp;gt; with personal bank accounts.&amp;#34;)&#xD;&#xA;&#xD;&#xA;Enterprise_Boundary(b1, &amp;#34;BankBoundary&amp;#34;) {&#xD;&#xA;&#xD;&#xA;  SystemDb_Ext(SystemE, &amp;#34;Mainframe Banking System&amp;#34;, &amp;#34;Stores all of the core banking information about customers, accounts, transactions, etc.&amp;#34;)&#xD;&#xA;&#xD;&#xA;  System_Boundary(b2, &amp;#34;BankBoundary2&amp;#34;) {&#xD;&#xA;    System(SystemA, &amp;#34;Banking System A&amp;#34;)&#xD;&#xA;    System(SystemB, &amp;#34;Banking System B&amp;#34;, &amp;#34;A system of the bank, with personal bank accounts.&amp;#34;)&#xD;&#xA;  }&#xD;&#xA;&#xD;&#xA;  System_Ext(SystemC, &amp;#34;E-mail system&amp;#34;, &amp;#34;The internal Microsoft Exchange e-mail system.&amp;#34;)&#xD;&#xA;  SystemDb(SystemD, &amp;#34;Banking System D Database&amp;#34;, &amp;#34;A system of the bank, with personal bank accounts.&amp;#34;)&#xD;&#xA;&#xD;&#xA;  Boundary(b3, &amp;#34;BankBoundary3&amp;#34;, &amp;#34;boundary&amp;#34;) {&#xD;&#xA;    SystemQueue(SystemF, &amp;#34;Banking System F Queue&amp;#34;, &amp;#34;A system of the bank, with personal bank accounts.&amp;#34;)&#xD;&#xA;    SystemQueue_Ext(SystemG, &amp;#34;Banking System G Queue&amp;#34;, &amp;#34;A system of the bank, with personal bank accounts.&amp;#34;)&#xD;&#xA;  }&#xD;&#xA;}&#xD;&#xA;&#xD;&#xA;BiRel(customerA, SystemAA, &amp;#34;Uses&amp;#34;)&#xD;&#xA;BiRel(SystemAA, SystemE, &amp;#34;Uses&amp;#34;)&#xD;&#xA;Rel(SystemAA, SystemC, &amp;#34;Sends e-mails&amp;#34;, &amp;#34;SMTP&amp;#34;)&#xD;&#xA;Rel(SystemC, customerA, &amp;#34;Sends e-mails to&amp;#34;)&#xD;&#xA;&lt;/pre&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home on GovCircle</title><link>https://govcircle.space/</link><description>Recent content in Home on GovCircle</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 08 Sep 2023 05:12:51 +0100</lastBuildDate><atom:link href="https://govcircle.space/index.xml" rel="self" type="application/rss+xml"/><item><title>Overview</title><link>https://govcircle.space/docs/introduction/overview/</link><pubDate>Fri, 30 Sep 2022 05:33:22 +0100</pubDate><guid>https://govcircle.space/docs/introduction/overview/</guid><description>&lt;p&gt;eddwdssscc&lt;/p&gt;</description></item><item><title>Story Behing GovCircle</title><link>https://govcircle.space/docs/introduction/story/</link><pubDate>Fri, 30 Sep 2022 05:33:22 +0100</pubDate><guid>https://govcircle.space/docs/introduction/story/</guid><description>&lt;p&gt;Living in Iran means facing the consequences of centralized power and international sanctions — where the right to shape one’s future is often denied. In such an environment, the idea of freedom becomes more than a concept — it becomes a necessity.
+When we discovered blockchain, and later Cardano’s vision for on-chain decentralized governance, we didn’t just see a new technology — we saw a new hope. A way to contribute to global governance models, to influence decisions that affect communities, and to help build systems where freedom, democracy, and accountability are not dictated by borders.
+But that vision was challenged. Due to jurisdictional restrictions, Iranian contributors were blocked from joining Intersect and excluded from participating in MBOs — key players in Cardano&amp;rsquo;s governance. That exclusion didn’t silence us. It motivated us.
+We envisioned a new path — one that didn’t require permission to contribute. GovCircle emerged from this vision: a product of an Iranian-led MBO initiative that empowers all governance actors — DReps, SPOs, direct voters, Constitution Committee members, and more — to communicate, collaborate, and make transparent decisions on-chain.
+For those of us who’ve lived without access to democracy, decentralized governance isn’t just a concept — it’s a form of resistance. It’s our way of contributing to a future where no one is left out because of where they’re born.
+GovCircle isn’t just a tool — it’s our contribution to building a freer, more accountable world through blockchain.&lt;/p&gt;</description></item><item><title>Vision</title><link>https://govcircle.space/docs/introduction/vision/</link><pubDate>Fri, 30 Sep 2022 05:33:22 +0100</pubDate><guid>https://govcircle.space/docs/introduction/vision/</guid><description>&lt;p&gt;At GovCircle, we envision a future where decentralized governance is not just a mechanism, but a culture — one rooted in transparency, trust, and meaningful participation. In this future, Cardano becomes the benchmark for how communities govern themselves: collaboratively, intelligently, and inclusively. We aim to make GovCircle the social layer of Cardano’s governance — a space where Delegated Representatives (DReps), voters, and ecosystem leaders converge to discuss, align, and act. By bridging communication gaps and amplifying informed voices, we’re building the foundation for a self-sustaining, community-led future — where governance drives innovation, not bureaucracy.&lt;/p&gt;</description></item><item><title>Mission</title><link>https://govcircle.space/docs/introduction/mission/</link><pubDate>Fri, 30 Sep 2022 05:33:22 +0100</pubDate><guid>https://govcircle.space/docs/introduction/mission/</guid><description>&lt;p&gt;At GovCircle, our mission is to empower a transparent, inclusive, and agile governance culture within the Cardano ecosystem. We bridge the communication gap between key actors — DReps, SPOs, direct voters, CCs and the broader community — by providing tools that foster meaningful dialogue, informed decision-making, and collective action. We are committed to enabling the Cardano community to shape the ecosystem’s evolution through collaboration, trust, and shared responsibility — ensuring that decentralized governance works for everyone.&lt;/p&gt;</description></item><item><title>Core Value</title><link>https://govcircle.space/docs/introduction/core_value/</link><pubDate>Fri, 30 Sep 2022 05:33:22 +0100</pubDate><guid>https://govcircle.space/docs/introduction/core_value/</guid><description>&lt;h3 id="-transparency-with-balance"&gt;🔹 Transparency with Balance &lt;a href="#-transparency-with-balance" class="anchor" aria-hidden="true"&gt;&lt;i class="material-icons align-middle"&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;We believe transparency is essential — but not at the cost of personal security. We embrace tools like Midnight to offer a balanced governance experience that respects both openness and privacy.&lt;/p&gt;
+&lt;h4 id="-open-participation"&gt;🔹 Open Participation &lt;a href="#-open-participation" class="anchor" aria-hidden="true"&gt;&lt;i class="material-icons align-middle"&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Every role in Cardano governance — from any country, any background — deserves equal opportunity to act. GovCircle enables MBOs and individuals to contribute meaningfully, without central permission.&lt;/p&gt;
+&lt;h3 id="-radical-inclusivity"&gt;🔹 Radical Inclusivity &lt;a href="#-radical-inclusivity" class="anchor" aria-hidden="true"&gt;&lt;i class="material-icons align-middle"&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Whether you&amp;rsquo;re a blockchain expert or new to decentralized governance, GovCircle works for you. Our dual-mode design makes participation accessible to everyone.&lt;/p&gt;</description></item><item><title>Why GovCircle</title><link>https://govcircle.space/docs/introduction/why_govcircle/</link><pubDate>Fri, 30 Sep 2022 05:33:22 +0100</pubDate><guid>https://govcircle.space/docs/introduction/why_govcircle/</guid><description>&lt;p&gt;Cardano is entering a new era of decentralized governance but coordination, communication, and global inclusion remain serious challenges.
+GovCircle is built to solve this.
+We are more than a governance platform. GovCircle is the cultural and technical infrastructure for the future of Cardano governance where every actor has the power, voice, and tools to contribute meaningfully, safely, and transparently.
+By combining open access, layered collaboration, decentralized identity, and AI-driven usability, we turn complex governance into a human-centered, community-led process.
+In GovCircle, governance is not a system. It&amp;rsquo;s a movement.&lt;/p&gt;</description></item><item><title>constitution</title><link>https://govcircle.space/docs/modules/constitution/</link><pubDate>Sat, 30 Sep 2023 05:33:22 +0100</pubDate><guid>https://govcircle.space/docs/modules/constitution/</guid><description>&lt;h2 id="overview"&gt;Overview &lt;a href="#overview" class="anchor" aria-hidden="true"&gt;&lt;i class="material-icons align-middle"&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The Constitution Module in GovCircle enhances the governance structure introduced in CIP-1694 by offering a dynamic and collaborative environment for managing, modifying, and discussing the Cardano Constitution. This module builds upon the foundational concept of the Constitution as defined in CIP-1694 while introducing powerful tools and workflows to make governance more accessible, transparent, and participatory.&lt;/p&gt;
+&lt;h2 id="architecture"&gt;Architecture &lt;a href="#architecture" class="anchor" aria-hidden="true"&gt;&lt;i class="material-icons align-middle"&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;In the current architecture outlined by CIP-1694, the Constitution is stored on the Cardano blockchain as a hash of a text file. This method ensures immutability and transparency by preserving the Constitution as a record on-chain. However, this static structure lacks the flexibility required for dynamic governance processes, including collaboration, updates, and categorization of the Constitution&amp;rsquo;s sections and rules.&lt;/p&gt;</description></item><item><title>circle</title><link>https://govcircle.space/docs/modules/circle/</link><pubDate>Sat, 30 Sep 2023 05:33:22 +0100</pubDate><guid>https://govcircle.space/docs/modules/circle/</guid><description>&lt;p&gt;dddddd&lt;/p&gt;</description></item><item><title>Code</title><link>https://govcircle.space/docs/example-content/code/</link><pubDate>Mon, 22 May 2023 00:44:31 +0100</pubDate><guid>https://govcircle.space/docs/example-content/code/</guid><description>&lt;div class="alert alert-warning" role="alert"&gt;
+ The front matter &lt;code&gt;description&lt;/code&gt; value for this page has been intentionally left empty in order to demonstrate FlexSearch&amp;rsquo;s suggested results fallback behaviour.
+&lt;/div&gt;
+&lt;h2 id="code-block-examples"&gt;Code Block Examples &lt;a href="#code-block-examples" class="anchor" aria-hidden="true"&gt;&lt;i class="material-icons align-middle"&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Code block language examples&lt;/p&gt;
+&lt;h3 id="go"&gt;Go &lt;a href="#go" class="anchor" aria-hidden="true"&gt;&lt;i class="material-icons align-middle"&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h3&gt;
+
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ &lt;div class="prism-codeblock "&gt;
+ &lt;pre id="9a3c1c7" class="language-go "&gt;
+ &lt;code&gt;package main
+
+import &amp;#34;fmt&amp;#34;
+
+func main() {
+ fmt.Println(&amp;#34;hello world&amp;#34;)
+}&lt;/code&gt;
+ &lt;/pre&gt;
+ &lt;/div&gt;
+&lt;h3 id="html"&gt;HTML &lt;a href="#html" class="anchor" aria-hidden="true"&gt;&lt;i class="material-icons align-middle"&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h3&gt;
+
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ &lt;div class="prism-codeblock "&gt;
+ &lt;pre id="97da112" class="language-html "&gt;
+ &lt;code&gt;&amp;lt;!DOCTYPE html&amp;gt;
+&amp;lt;html&amp;gt;
+&amp;lt;body&amp;gt;
+
+&amp;lt;h1&amp;gt;My First Heading&amp;lt;/h1&amp;gt;
+
+&amp;lt;p&amp;gt;My first paragraph.&amp;lt;/p&amp;gt;
+
+&amp;lt;/body&amp;gt;
+&amp;lt;/html&amp;gt;&lt;/code&gt;
+ &lt;/pre&gt;
+ &lt;/div&gt;
+&lt;h3 id="markdown"&gt;Markdown &lt;a href="#markdown" class="anchor" aria-hidden="true"&gt;&lt;i class="material-icons align-middle"&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h3&gt;
+
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ &lt;div class="prism-codeblock "&gt;
+ &lt;pre id="cab457f" class="language-md "&gt;
+ &lt;code&gt;# H1 heading
+
+**Some bold text**
+
+*Italic text example*&lt;/code&gt;
+ &lt;/pre&gt;
+ &lt;/div&gt;</description></item><item><title>Mermaid</title><link>https://govcircle.space/docs/example-content/mermaid/</link><pubDate>Fri, 08 Sep 2023 05:12:51 +0100</pubDate><guid>https://govcircle.space/docs/example-content/mermaid/</guid><description>&lt;h2 id="flowchart"&gt;Flowchart &lt;a href="#flowchart" class="anchor" aria-hidden="true"&gt;&lt;i class="material-icons align-middle"&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;pre class="mermaid"&gt;flowchart LR
+
+A[Hard] --&amp;gt;|Text| B(Round)
+B --&amp;gt; C{Decision}
+C --&amp;gt;|One| D[Result 1]
+C --&amp;gt;|Two| E[Result 2]
+&lt;/pre&gt;
+&lt;h2 id="sequence-diagram"&gt;Sequence diagram &lt;a href="#sequence-diagram" class="anchor" aria-hidden="true"&gt;&lt;i class="material-icons align-middle"&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;pre class="mermaid"&gt;sequenceDiagram
+Alice-&amp;gt;&amp;gt;John: Hello John, how are you?
+loop Healthcheck
+ John-&amp;gt;&amp;gt;John: Fight against hypochondria
+end
+Note right of John: Rational thoughts!
+John--&amp;gt;&amp;gt;Alice: Great!
+John-&amp;gt;&amp;gt;Bob: How about you?
+Bob--&amp;gt;&amp;gt;John: Jolly good!
+&lt;/pre&gt;
+&lt;h2 id="gantt-chart"&gt;Gantt Chart &lt;a href="#gantt-chart" class="anchor" aria-hidden="true"&gt;&lt;i class="material-icons align-middle"&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;pre class="mermaid"&gt;gantt
+ section Section
+ Completed :done, des1, 2014-01-06,2014-01-08
+ Active :active, des2, 2014-01-07, 3d
+ Parallel 1 : des3, after des1, 1d
+ Parallel 2 : des4, after des1, 1d
+ Parallel 3 : des5, after des3, 1d
+ Parallel 4 : des6, after des4, 1d
+&lt;/pre&gt;
+&lt;h2 id="class-diagram"&gt;Class diagram &lt;a href="#class-diagram" class="anchor" aria-hidden="true"&gt;&lt;i class="material-icons align-middle"&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;pre class="mermaid"&gt;classDiagram
+Class01 &amp;lt;|-- AveryLongClass : Cool
+&amp;lt;&amp;lt;interface&amp;gt;&amp;gt; Class01
+Class09 --&amp;gt; C2 : Where am i?
+Class09 --* C3
+Class09 --|&amp;gt; Class07
+Class07 : equals()
+Class07 : Object[] elementData
+Class01 : size()
+Class01 : int chimp
+Class01 : int gorilla
+class Class10 {
+ &amp;gt;&amp;gt;service&amp;gt;&amp;gt;
+ int id
+ size()
+}
+&lt;/pre&gt;
+&lt;h2 id="state-diagram"&gt;State diagram &lt;a href="#state-diagram" class="anchor" aria-hidden="true"&gt;&lt;i class="material-icons align-middle"&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;pre class="mermaid"&gt;stateDiagram-v2
+[*] --&amp;gt; Still
+Still --&amp;gt; [*]
+Still --&amp;gt; Moving
+Moving --&amp;gt; Still
+Moving --&amp;gt; Crash
+Crash --&amp;gt; [*]
+&lt;/pre&gt;
+&lt;h2 id="pie-chart"&gt;Pie Chart &lt;a href="#pie-chart" class="anchor" aria-hidden="true"&gt;&lt;i class="material-icons align-middle"&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;pre class="mermaid"&gt;pie
+&amp;#34;Dogs&amp;#34; : 386
+&amp;#34;Cats&amp;#34; : 85.9
+&amp;#34;Rats&amp;#34; : 15
+&lt;/pre&gt;
+&lt;h2 id="git-graph"&gt;Git Graph &lt;a href="#git-graph" class="anchor" aria-hidden="true"&gt;&lt;i class="material-icons align-middle"&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;pre class="mermaid"&gt; gitGraph
+ commit
+ commit
+ branch develop
+ checkout develop
+ commit
+ commit
+ checkout main
+ merge develop
+ commit
+ commit
+&lt;/pre&gt;
+&lt;h2 id="bar-chart-using-gantt-chart"&gt;Bar chart (using gantt chart) &lt;a href="#bar-chart-using-gantt-chart" class="anchor" aria-hidden="true"&gt;&lt;i class="material-icons align-middle"&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;pre class="mermaid"&gt;gantt
+ title Git Issues - days since last update
+ dateFormat X
+ axisFormat %s
+
+ section Issue19062
+ 71 : 0, 71
+ section Issue19401
+ 36 : 0, 36
+ section Issue193
+ 34 : 0, 34
+ section Issue7441
+ 9 : 0, 9
+ section Issue1300
+ 5 : 0, 5
+&lt;/pre&gt;
+&lt;h2 id="user-journey-diagram"&gt;User Journey diagram &lt;a href="#user-journey-diagram" class="anchor" aria-hidden="true"&gt;&lt;i class="material-icons align-middle"&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;pre class="mermaid"&gt; journey
+ title My working day
+ section Go to work
+ Make tea: 5: Me
+ Go upstairs: 3: Me
+ Do work: 1: Me, Cat
+ section Go home
+ Go downstairs: 5: Me
+ Sit down: 3: Me
+&lt;/pre&gt;
+&lt;h2 id="c4-diagram"&gt;C4 diagram &lt;a href="#c4-diagram" class="anchor" aria-hidden="true"&gt;&lt;i class="material-icons align-middle"&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;pre class="mermaid"&gt;C4Context
+title System Context diagram for Internet Banking System
+
+Person(customerA, &amp;#34;Banking Customer A&amp;#34;, &amp;#34;A customer of the bank, with personal bank accounts.&amp;#34;)
+Person(customerB, &amp;#34;Banking Customer B&amp;#34;)
+Person_Ext(customerC, &amp;#34;Banking Customer C&amp;#34;)
+System(SystemAA, &amp;#34;Internet Banking System&amp;#34;, &amp;#34;Allows customers to view information about their bank accounts, and make payments.&amp;#34;)
+
+Person(customerD, &amp;#34;Banking Customer D&amp;#34;, &amp;#34;A customer of the bank, &amp;lt;br/&amp;gt; with personal bank accounts.&amp;#34;)
+
+Enterprise_Boundary(b1, &amp;#34;BankBoundary&amp;#34;) {
+
+ SystemDb_Ext(SystemE, &amp;#34;Mainframe Banking System&amp;#34;, &amp;#34;Stores all of the core banking information about customers, accounts, transactions, etc.&amp;#34;)
+
+ System_Boundary(b2, &amp;#34;BankBoundary2&amp;#34;) {
+ System(SystemA, &amp;#34;Banking System A&amp;#34;)
+ System(SystemB, &amp;#34;Banking System B&amp;#34;, &amp;#34;A system of the bank, with personal bank accounts.&amp;#34;)
+ }
+
+ System_Ext(SystemC, &amp;#34;E-mail system&amp;#34;, &amp;#34;The internal Microsoft Exchange e-mail system.&amp;#34;)
+ SystemDb(SystemD, &amp;#34;Banking System D Database&amp;#34;, &amp;#34;A system of the bank, with personal bank accounts.&amp;#34;)
+
+ Boundary(b3, &amp;#34;BankBoundary3&amp;#34;, &amp;#34;boundary&amp;#34;) {
+ SystemQueue(SystemF, &amp;#34;Banking System F Queue&amp;#34;, &amp;#34;A system of the bank, with personal bank accounts.&amp;#34;)
+ SystemQueue_Ext(SystemG, &amp;#34;Banking System G Queue&amp;#34;, &amp;#34;A system of the bank, with personal bank accounts.&amp;#34;)
+ }
+}
+
+BiRel(customerA, SystemAA, &amp;#34;Uses&amp;#34;)
+BiRel(SystemAA, SystemE, &amp;#34;Uses&amp;#34;)
+Rel(SystemAA, SystemC, &amp;#34;Sends e-mails&amp;#34;, &amp;#34;SMTP&amp;#34;)
+Rel(SystemC, customerA, &amp;#34;Sends e-mails to&amp;#34;)
+&lt;/pre&gt;</description></item></channel></rss>

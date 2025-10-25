@@ -7,18 +7,16 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   {{- with .Site.Params.googleSiteVerification }}
   <meta name="google-site-verification" content="{{ . }}" />
-  {{- end }}
-  {{- with .Description | default ($.Param "description") }}
+  {{- end }} {{- with .Description | default ($.Param "description") }}
   <meta name="description" content="{{ . }}" />
   {{- end }}
   <meta
     name="keywords"
     content="Governance, Cardano, Blockchain, Democracy, On-Chain Data, Real-World Integration"
   />
-  <meta name="author" content="{{ .Site.Params.author | default "Talatom Labs"
-  }}" /> <meta name="email" content="{{ .Site.Params.email | default
-  "support@govcircle.space" }}" /> <meta name="website" content="{{
-  .Site.Params.website | default "https://govcircle.space" }}" />
+  <meta name="author" content="{{ .Site.Params.author}}" />
+  <meta name="email" content="{{ .Site.Params.email }}" />
+  <meta name="website" content="{{.Site.Params.website}}" />
   <meta name="Version" content="v0.2.0" />
 
   <!-- favicon -->
