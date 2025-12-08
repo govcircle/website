@@ -161,7 +161,7 @@ title = 'GovCircle'
 
  [[menu.primary]]
      name  = "Catalyst F15 Proposal"
-     url = "https://projectcatalyst.io/funds/14/cardano-use-cases-concepts/govcircle-strengthening-cardanos-constitutional-framework"
+     url = "https://reviews.projectcatalyst.io/proposal/1716"
      identifier = "catalyst"
      weight = 10
 
