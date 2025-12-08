@@ -49,38 +49,38 @@ featureGrid:
   subtitle: GovCircle bridges the gap between on-chain data and real-world governance insights. Our platform provides comprehensive tools for transparent, borderless democracy. Discover our core features below.
 
   items:
-    - title: On-Chain Data Integration
-      icon: speed
-      description: Seamlessly connect blockchain data with real-world governance processes. Access comprehensive on-chain analytics and insights for informed decision-making.
+    - title: Open Participation
+      icon: balance
+      description: Every governance role, from any country, deserves equal opportunity. GovCircle enables MBOs and individuals to contribute meaningfully, without relying on central intermediaries.
 
-    - title: Fast Collaboration
-      icon: bolt
-      description: Enhances collaboration between governance actors through social media integration — enabling Actors to connect, share  and discuss governance topics seamlessly within one unified environment.
+    - title: Transparency with Balance
+      icon: shield
+      description: We believe transparency is essential, but not at the cost of personal security. We embrace tools like Midnight to offer a balanced governance experience that respects both openness and privacy.
 
-    - title: Secure by Design
-      icon: lock
-      description: Built on Cardano's secure infrastructure with enterprise-grade security. All governance data is cryptographically secured and verifiable on-chain.
+    - title: Operational Accountability
+      icon: strategy
+      description: Supervision and management of all governance tasks are guaranteed through the use of OKR (Objectives and Key Results) and KPI (Key Performance Indicators), ensuring decentralized work is measurable and goal-oriented.
 
-    - title: Configurable Modules
-      icon: settings
-      description: Flexible governance modules that can be configured for different use cases. Customize voting mechanisms, proposal systems, and decision-making processes to suit your organization.
+    - title: Financial Clarity
+      icon: account_balance
+      description: We provide dedicated solutions for Treasury management and deliver suitable statistical reports to empower the Cardano community with the data required for informed, collective financial decision-making.
 
-    - title: Real-World Integration
-      icon: change_history
-      description: Bridge the gap between blockchain governance and traditional institutions. Connect with existing governance frameworks while maintaining transparency and accountability.
+    - title: Radical Inclusivity
+      icon: accessibility
+      description: GovCircle's dual-mode design makes participation accessible to everyone, whether you are a blockchain expert or new to decentralized governance.
 
-    - title: User-Friendly Interface
-      icon: dark_mode
-      description: "Intuitive design that makes complex governance processes accessible to all stakeholders. Clean, modern interface with customizable themes and accessibility features."
+    - title: Merit-Based Decisions
+      icon: workspace_premium
+      description: "We support advanced voting systems that promote decisions driven by expertise, legitimacy, and fairness, reflecting the unique needs of different governance contexts."
 
     - title: Advanced Analytics
-      icon: search
+      icon: data_usage
       description: Powerful analytics and reporting tools that provide insights into governance patterns, participation rates, and decision outcomes. Make data-driven governance decisions.
 
-    - title: Global Accessibility
-      icon: translate
-      description: Support for multiple languages and cultural contexts. Ensure governance processes are accessible to diverse global communities with inclusive design principles.
+    - title: AI-Enhanced Experience
+      icon: neurology
+      description: AI integration empowers users to participate faster, easier, and smarter—from understanding complex proposals to navigating intricate governance flows.
 
     - title: Open Source Foundation
-      icon: palette
+      icon: code
       description: Built on open-source principles with transparent development processes. Community-driven governance tools that can be audited, modified, and improved by stakeholders.
