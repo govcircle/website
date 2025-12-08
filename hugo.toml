@@ -155,12 +155,12 @@ title = 'GovCircle'
 [menu]
 [[menu.primary]]
     name  = "Docs"
-    url = "docs/"
+    url = "https://govcircle.gitbook.io/circle-paper"
     identifier = "docs"
     weight = 30
 
  [[menu.primary]]
-     name  = "Catalyst F14 Proposal"
+     name  = "Catalyst F15 Proposal"
      url = "https://projectcatalyst.io/funds/14/cardano-use-cases-concepts/govcircle-strengthening-cardanos-constitutional-framework"
      identifier = "catalyst"
      weight = 10
